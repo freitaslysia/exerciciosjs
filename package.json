@@ -1,0 +1,22 @@
+{
+  "name": "exerciciosjs",
+  "version": "1.0.0",
+  "description": "Aqui constam os exercícios em JavaScript do curso Jovem Programador",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freitaslysia/exerciciosjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freitaslysia/exerciciosjs.issues"
+  },
+  "homepage": "https://github.com/freitaslysia/exerciciosjs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
